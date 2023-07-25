@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/E-Commerce-Caravan-Store/static/css/main.59074c73.css",
+    "main.css": "/E-Commerce-Caravan-Store/static/css/main.622c9096.css",
     "main.js": "/E-Commerce-Caravan-Store/static/js/main.5dee5659.js",
     "static/js/787.8078434c.chunk.js": "/E-Commerce-Caravan-Store/static/js/787.8078434c.chunk.js",
     "static/media/fa-solid-900.ttf": "/E-Commerce-Caravan-Store/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
@@ -18,12 +18,12 @@
     "static/media/slick.ttf": "/E-Commerce-Caravan-Store/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/E-Commerce-Caravan-Store/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/E-Commerce-Caravan-Store/index.html",
-    "main.59074c73.css.map": "/E-Commerce-Caravan-Store/static/css/main.59074c73.css.map",
+    "main.622c9096.css.map": "/E-Commerce-Caravan-Store/static/css/main.622c9096.css.map",
     "main.5dee5659.js.map": "/E-Commerce-Caravan-Store/static/js/main.5dee5659.js.map",
     "787.8078434c.chunk.js.map": "/E-Commerce-Caravan-Store/static/js/787.8078434c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59074c73.css",
+    "static/css/main.622c9096.css",
     "static/js/main.5dee5659.js"
   ]
 }
