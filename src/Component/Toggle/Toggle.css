@@ -1,0 +1,37 @@
+.t {
+    width: 50px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: gold;
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.button {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(40, 36, 36);
+    position: absolute;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+    .t {
+        top: 160px !important;
+        left: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .t {
+        top: 180px;
+        left: 10px;
+    }
+}
