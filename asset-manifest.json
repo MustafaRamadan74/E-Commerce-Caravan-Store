@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-Caravan-Store/static/css/main.59074c73.css",
+    "main.js": "/E-Commerce-Caravan-Store/static/js/main.5dee5659.js",
+    "static/js/787.8078434c.chunk.js": "/E-Commerce-Caravan-Store/static/js/787.8078434c.chunk.js",
+    "static/media/fa-solid-900.ttf": "/E-Commerce-Caravan-Store/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/E-Commerce-Caravan-Store/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/notFound.png": "/E-Commerce-Caravan-Store/static/media/notFound.3f59141608c0c3975cd8.png",
+    "static/media/fa-solid-900.woff2": "/E-Commerce-Caravan-Store/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/E-Commerce-Caravan-Store/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/E-Commerce-Caravan-Store/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/caravan-logoE.png": "/E-Commerce-Caravan-Store/static/media/caravan-logoE.413eb80205cdac15de71.png",
+    "static/media/fa-regular-400.woff2": "/E-Commerce-Caravan-Store/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/E-Commerce-Caravan-Store/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-Commerce-Caravan-Store/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/E-Commerce-Caravan-Store/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-Commerce-Caravan-Store/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-Commerce-Caravan-Store/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-Commerce-Caravan-Store/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-Commerce-Caravan-Store/index.html",
+    "main.59074c73.css.map": "/E-Commerce-Caravan-Store/static/css/main.59074c73.css.map",
+    "main.5dee5659.js.map": "/E-Commerce-Caravan-Store/static/js/main.5dee5659.js.map",
+    "787.8078434c.chunk.js.map": "/E-Commerce-Caravan-Store/static/js/787.8078434c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59074c73.css",
+    "static/js/main.5dee5659.js"
+  ]
+}
